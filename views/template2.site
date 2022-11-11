@@ -1,0 +1,11 @@
+<head>
+#title#
+<style>
+body {background-color: darkorange;}
+body {color: white;}
+</style>
+</head>
+<body>
+<header>#message#</header>
+#content#
+</body>
